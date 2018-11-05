@@ -21,5 +21,5 @@ num_na represent number of instances model could not make a prediction
 
 #More work to be done on:
   1. Scale to larger Dataset
-  2. Work with sparcity - Remove ratings with movies that were rated less than n times
+  2. Work with sparsity - Remove ratings with movies that were rated less than n times
   3. Build more models combining content-based and cf method
