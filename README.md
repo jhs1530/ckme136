@@ -16,6 +16,7 @@ title.basics.tsv.gz from https://datasets.imdbws.com/
 |rmse|0.9242157|0.8791282|0.9071452|1.0841915|2.2944107|
 |mae|0.7447494|0.7303772|0.7386630|0.7954896|0.7255709|
 |num_na|767|0|19|0|772|
+
 num_na represent number of instances model could not make a prediction
 
 #More work to be done on:
