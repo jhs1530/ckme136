@@ -11,10 +11,10 @@ Order of files - Please run the files in the following order
 
 Initial Result
 
-             base1     base2 genre_based genre_reg   cosine_cf
-rmse     0.9242157 0.8791282   0.9071452 1.0841915   2.2944107
-mae      0.7447494 0.7303772   0.7386630 0.7954896   0.7255709
-num_na 767.0000000 0.0000000  19.0000000 0.0000000 772.0000000
+        base1     base2     genre_based genre_reg cosine_cf
+rmse    0.9242157 0.8791282 0.9071452   1.0841915 2.2944107
+mae     0.7447494 0.7303772 0.7386630   0.7954896 0.7255709
+num_na  767.00000 0.0000000 19.0000000  0.0000000 772.0000000
 
 num_na represent number of instances model could not make a prediction
 
