@@ -4,4 +4,3 @@ This project was developed n R. For academic purposes, pre-built statistic packa
 
 ml-1m.zip (size: 6 MB) from https://grouplens.org/datasets/movielens/1m/
 
-Dataset is also uploaded onto github
