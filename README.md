@@ -1,4 +1,4 @@
-This project was developed n R. For academic purposes, pre-built statistic packages were not used.
+This project was developed with R. For academic purposes, pre-built statistic packages were not used.
 
 #Dataset used:
 
